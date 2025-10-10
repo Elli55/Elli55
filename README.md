@@ -1,4 +1,4 @@
-# 👋 I'm Elli, half manager, half analyst, always curious.
+# 👋 I'm Elli, somewhere between business and data, always learning.
 
 I come from the world of **management**,  
 where strategies often sound nice but are hard to measure.  

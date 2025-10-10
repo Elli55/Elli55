@@ -1,9 +1,9 @@
-# 👋 I'm Elli – half manager, half analyst, always curious.
+# 👋 I'm Elli, half manager, half analyst, always curious.
 
 I come from the world of **management**,  
 where strategies often sound nice but are hard to measure.  
 That’s why I wanted to understand **what makes good decisions really work.**  
-That’s how I found data – not because I love numbers,  
+That’s how I found data, not just because I love numbers,  
 but because I want to know **how they help people make smarter choices.**
 
 ---

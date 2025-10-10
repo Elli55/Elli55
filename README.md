@@ -16,6 +16,7 @@ but because I want to know **how they help people make smarter choices.**
 ---
 
 📊 **What I’m learning now**
+
 I work with **Power BI, SQL, and Python** –  
 not to become a data scientist,  
 but to make **better business decisions based on data.**
@@ -23,6 +24,7 @@ but to make **better business decisions based on data.**
 ---
 
 💡 **What I’m working on**
+
 I’m building [**Be!Savad**](https://www.besavad.com) –  
 an education platform that shows learning can also be fun.  
   

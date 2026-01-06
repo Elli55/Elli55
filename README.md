@@ -11,7 +11,7 @@ but because I want to know **how they help people make smarter choices.**
 🎓 **Education**
 - **Bachelor in Management** (ASAU, Ganja, Azerbaijan – German Program)  
 - **Unfinished Master in Agribusiness Management** (Weihenstephan-Triesdorf, Weidenbach, Germany)  
-- **Further training in Business Intelligence** (IU Academy, Düsseldorf, Germany)
+- **Poststady Prog in Business Intelligence** (IU Academy, Düsseldorf, Germany)
 
 ---
 
@@ -20,13 +20,6 @@ but because I want to know **how they help people make smarter choices.**
 I work with **Power BI, SQL, and Python** –  
 not to become a data scientist,  
 but to make **better business decisions based on data.**
-
----
-
-💡 **What I’m working on**
-
-I’m building [**Be!Savad**](https://www.besavad.com) –  
-an education platform that shows learning can also be fun.  
   
 
 ---
@@ -34,5 +27,4 @@ an education platform that shows learning can also be fun.
 💬 **Let’s connect!**
 📍 Georgsmarienhütte (Osnabrück, Germany)  
 🔗 [LinkedIn](https://www.linkedin.com/in/alrahman-elli-verdiyev)  
-🐿️ [Be!Savad](https://www.besavad.com)
 

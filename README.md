@@ -8,14 +8,11 @@ but because I want to know **how they help people make smarter choices.**
 
 ---
 
-🎓 **Education**
+ **Education**
 - **Bachelor in Management** (ASAU, Ganja, Azerbaijan – German Program)  
 - **Unfinished Master in Agribusiness Management** (Weihenstephan-Triesdorf, Weidenbach, Germany)  
 - **Poststady Prog in Business Intelligence** (IU Academy, Düsseldorf, Germany)
 
----
-
-📊 **What I’m learning now**
 
 I work with **Power BI, SQL, and Python** –  
 not to become a data scientist,  
@@ -24,7 +21,7 @@ but to make **better business decisions based on data.**
 
 ---
 
-💬 **Let’s connect!**
+ **Let’s connect!**
 📍 Georgsmarienhütte (Osnabrück, Germany)  
-🔗 [LinkedIn](https://www.linkedin.com/in/alrahman-elli-verdiyev)  
+ [LinkedIn](https://www.linkedin.com/in/alrahman-elli-verdiyev)  
 

@@ -22,6 +22,7 @@ but to make **better business decisions based on data.**
 ---
 
  **Let’s connect!**
-📍 Georgsmarienhütte (Osnabrück, Germany)  
+📍 Georgsmarienhütte (Osnabrück, Germany) 
+ [BioPage](https://doneatelli.com)
  [LinkedIn](https://www.linkedin.com/in/alrahman-elli-verdiyev)  
 

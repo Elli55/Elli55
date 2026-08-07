@@ -11,8 +11,11 @@ but because I want to know **how they help people make smarter choices.**
  **Education**
  
  **Lebensmittelwirtschaft M.Sc** / present (Osnabrüch Hochschule, Osnabrück, Germany )
+ 
  **Poststady Prog in Business Intelligence** (IU Academy, Düsseldorf, Germany)
+ 
  **Unfinished Master in Agribusiness Management** (Weihenstephan-Triesdorf, Weidenbach, Germany)  
+ 
  **Bachelor in Management**– German Program (ASAU, Ganja, Azerbaijan )  
 
 

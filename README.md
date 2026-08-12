@@ -10,7 +10,7 @@ but because I want to know **how they help people make smarter choices.**
 
  **Education**
  
- ** Master of Science Food Business Management ** / present (Osnabrüch University of Applied Science , Osnabrück, Germany )
+ **Master of Science Food Business Management** present (Osnabrüch University of Applied Science , Osnabrück, Germany )
  
  **Poststady Prog in Business Intelligence** (IU International University, Düsseldorf, Germany)
  

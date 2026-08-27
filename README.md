@@ -12,7 +12,7 @@ but because I want to know **how they help people make smarter choices.**
  
  **Master of Science Food Business Management** / present / (Osnabrüch University of Applied Science , Osnabrück, Germany )
  
- **Poststady Prog in Business Intelligence** (IU International University, Düsseldorf, Germany)
+ **Postgraduate study in Business Intelligence** (IU International University, Düsseldorf, Germany)
  
  **Unfinished Master in Agribusiness Management** (Weihenstephan-Triesdorf University of Applied Science, Weidenbach, Germany)  
  

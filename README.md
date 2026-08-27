@@ -1,4 +1,4 @@
-# 👋 I'm Elli, somewhere between business and data, always learning.
+#  I'm Elli, somewhere between business and data, always learning.
 
 I come from the world of **management**,  
 where strategies often sound nice but are hard to measure.  
@@ -26,9 +26,9 @@ but to make **better business decisions based on data.**
   
 
 ---
-
- **Let’s connect!**
-📍 Osnabrück, Germany 
+ ## Osnabrück, Germany 
+ 
+ # Let’s connect!
  [BioPage](https://doneatelli.com)
  [LinkedIn](https://www.linkedin.com/in/alrahman-elli-verdiyev)  
 

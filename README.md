@@ -8,7 +8,7 @@ but because I want to know **how they help people make smarter choices.**
 
 ---
 
- **Education**
+ # Education
  
  **Master of Science Food Business Management** / present / (Osnabrüch University of Applied Science , Osnabrück, Germany )
  
@@ -28,7 +28,6 @@ but to make **better business decisions based on data.**
 ---
  ## Osnabrück, Germany 
  
- # Let’s connect!
- [BioPage](https://doneatelli.com)
- [LinkedIn](https://www.linkedin.com/in/alrahman-elli-verdiyev)  
+ ## Let’s connect!
+ [BioPage](https://doneatelli.com) ||  [LinkedIn](https://www.linkedin.com/in/alrahman-elli-verdiyev)  
 

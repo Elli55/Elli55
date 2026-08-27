@@ -20,7 +20,7 @@ but because I want to know **how they help people make smarter choices.**
 
 
 
-I work with **Power BI, SQL, and Python** –  
+I work with **Python, Power BI, SQL and R** –  
 not to become a data scientist,  
 but to make **better business decisions based on data.**
   

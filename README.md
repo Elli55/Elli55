@@ -1,6 +1,6 @@
 #  I'm Elli, somewhere between business and data, always learning.
 
-I come from the world of **management**,  
+I come from the world of **Business Analyse / Management**,  
 where strategies often sound nice but are hard to measure.  
 That’s why I wanted to understand **what makes good decisions really work.**  
 That’s how I found data, not just because I love numbers,  

@@ -1,4 +1,4 @@
-#  I'm Elli, somewhere between business and data, always learning.
+#  I'm Elli, somewhere between business managment and data.
 
 I come from the world of **Business Analyse / Management**,  
 where strategies often sound nice but are hard to measure.  
